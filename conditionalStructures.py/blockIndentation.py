@@ -17,7 +17,5 @@ elif opcao == 2:
 elif opcao == 3:
     print("Seu extrato...")
 
-
-#Roda ai Matheus
 #if (saque>=limite_por_saldo) or (saque>=saldo):
 #   print("Saque não permitido")
